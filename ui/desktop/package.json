@@ -158,7 +158,7 @@
     "tailwindcss": "^4.2.1",
     "typescript": "~5.9.3",
     "vite": "^7.3.1",
-    "vitest": "^4.0.18"
+    "vitest": "^5.0.5"
   },
   "keywords": [],
   "license": "Apache-2.0"
